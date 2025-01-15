@@ -1,3 +1,4 @@
+# Knowledge Graph Generator
 A powerful tool that generates knowledge graphs from PDF documents using GraphRAG-SDK and Unstructured-IO, with storage in FalkorDB.
 ## 🚀 Features
 - Automated PDF processing with Unstructured-IO
